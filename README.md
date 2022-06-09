@@ -2,6 +2,3 @@
 
 Hola como estas?
  
-
-
-
